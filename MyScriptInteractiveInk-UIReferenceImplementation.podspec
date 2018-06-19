@@ -39,5 +39,5 @@ Visit https://developer.myscript.com/ to create your MyScript Developer account 
 
   s.source_files = 'IInkUIReferenceImplementation/Classes/**/*'
   s.preserve_paths = 'IInkUIReferenceImplementation/Classes/**'
-  s.dependency 'MyScriptInteractiveInk-Runtime', '~> 1.1.2'
+  #s.dependency 'MyScriptInteractiveInk-Runtime', '~> 1.1.2'
 end
